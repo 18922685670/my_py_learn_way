@@ -1,2 +1,3 @@
 # my_py_learn_way
-just for myself
+
+SQL alchemy相关：https://zhuanlan.zhihu.com/p/91169446
